@@ -205,4 +205,4 @@ for(i=2;i<=n;i++) //compares that i<=n from i=2
     if(i%a==0){continue next;}} // for every a compares that i%a==0, if it is true...go up the number is not valid!
   alert( i );}  
 
-
+*/
